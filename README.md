@@ -26,7 +26,7 @@ React • Next.js • Material UI (MUI)
 
 ### 🎨 **Design Tools**
 
-Figma (UI/UX • Wireframes • Prototyping)
+Figma (UI/UX • Prototyping)
 
 ### 🛠️ **Version Control & Tools**
 
