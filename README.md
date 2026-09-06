@@ -8,7 +8,7 @@ A passionate and detail‑oriented Frontend Developer who loves building beautif
 
 ## 👩‍💻 **About Me**
 
-I'm **Meti Jemal**, a **Computer Science & Engineering graduate** and a frontend developer with a passion for **UI/UX design**. I enjoy transforming ideas into intuitive, interactive digital experiences using modern technologies such as **React**, **Next.js**, and **Figma**.
+I'm **Meti Jemal**, a **Computer Science & Engineering graduate** and a frontend developer with a passion for UI/UX DESIGN. I enjoy transforming ideas into intuitive, interactive digital experiences using modern technologies such as **React**, **Next.js**, and **Figma**.
 
 I believe great products are built when thoughtful design and quality development work together, and I'm passionate about bridging both to create user-centered solutions.
 
